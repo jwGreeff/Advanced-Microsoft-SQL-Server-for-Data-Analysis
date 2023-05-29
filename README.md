@@ -12,5 +12,4 @@ Following topics are explored: <br><br>
 <b>8.</b> Designing lookup tables to simplify redundant analysis<br>
 <b>9.</b> SQL Optimization techniques including indexes<br>
 <b>10.</b> Procedural programming techniques like variables and IF statements<br>
-<b>11.</b> Defining your own SQL functions and Creating stored procedures for flexible<br>
-<b>12.</b> Repeatable analysis<br>
+<b>11.</b> Defining your own SQL functions and Creating stored procedures for flexible repeatable analysis<br>
