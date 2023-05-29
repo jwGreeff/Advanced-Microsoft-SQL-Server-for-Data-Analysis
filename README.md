@@ -1,6 +1,6 @@
 # Advanced-Microsoft-SQL-Server-for-Data-Analysis
 
-Following topics are explored: <br><br>
+<br>Following topics are explored: <br><br>
 
 <b>1.</b> Window Functions<br>
 <b>2.</b> Correlated Subqueries<br>
