@@ -1,4 +1,4 @@
-# Advanced-Microsoft-SQL-Server-for-Data-Analysis
+# Advanced Microsoft SQL Server for Data-Analysis
 
 <br>Following topics are explored: <br><br>
 
